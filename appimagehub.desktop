@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=appimagehub
+Comment=A fast, highly customizable system info script
+Exec=./usr/bin/appimagehub.wrapper
+Icon=appimagehub
+Categories=Utility;
